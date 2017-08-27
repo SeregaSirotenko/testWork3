@@ -1,0 +1,31 @@
+.myMenu{
+	width: 249px;
+	height: 29px;
+	margin: 0 auto;
+}
+
+.myMenu span{
+	font-size: 19pt;
+	font-weight: bold;
+}
+
+.moto{
+	width: 300px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+.moto li a span {
+	font-family: Century Gothic;
+	font-size: 15pt;
+	color: blue;
+}
+
+.moto li a{
+	text-decoration: none;
+}
+
+.moto li:hover{
+	background-color: red;
+}
+
